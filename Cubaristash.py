@@ -13,7 +13,7 @@ try:
     R = open('SL.json',"r").read()
     li = eval(R.replace('\n',""))
     splitter = "/"
-    sta = "Mangapanels\\"
+    sta = ""
     chrs = []
     for x in string.ascii_lowercase:
         chrs.append(x)
