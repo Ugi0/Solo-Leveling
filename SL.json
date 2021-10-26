@@ -1,119 +1,137 @@
 {
-    "title":"Solo Leveling",
-    "description":"Solo Leveling is a story about the weakest hunter Sung Jin-Woo and his quest to become the strongest, S-Rank hunter. ",
-    "artist":"Dubu",
-    "author":"Chugong",
-    "cover":"https://wallpaperaccess.com/full/3231246.png",
-    "chapters":{
-       "159":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635240959",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/FIZE92W"
-          }
-       },
-       "160":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241007",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/gnyrfo0"
-          }
-       },
-       "161":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241021",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/dSbRwNR"
-          }
-       },
-       "162":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241032",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/caylGjN"
-          }
-       },
-       "163":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241047",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/7VMtKbD"
-          }
-       },
-       "164":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241058",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/fjsnle3"
-          }
-       },
-       "165":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241068",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/9ubNiq8"
-          }
-       },
-       "166":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241084",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/rFziQ8W"
-          }
-       },
-       "167":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241096",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/pWVYaQb"
-          }
-       },
-       "168":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241106",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/Vv6wvw3"
-          }
-       },
-       "169":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241118",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/iyV0pXO"
-          }
-       },
-       "170":{
-          "title":"",
-          "volume":"",
-          "last_updated":"1635241128",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/ItQt4Fv"
-          }
-       },
-       "111":{
-          "volume":"",
-          "last_updated":"1635248572",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/LEbRvAe"
-          }
-       },
-       "112":{
-          "volume":"",
-          "last_updated":"1635248838",
-          "groups":{
-             "AsuraScans":"/proxy/api/imgur/chapter/0WmMPll"
-          }
-       }
+    "title": "Solo Leveling",
+    "description": "Solo Leveling is a story about the weakest hunter Sung Jin-Woo and his quest to become the strongest, S-Rank hunter. ",
+    "artist": "Dubu",
+    "author": "Chugong",
+    "cover": "https://wallpaperaccess.com/full/3231246.png",
+    "chapters": {
+        "159": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635240959",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/FIZE92W"
+            }
+        },
+        "160": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241007",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/gnyrfo0"
+            }
+        },
+        "161": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241021",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/dSbRwNR"
+            }
+        },
+        "162": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241032",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/caylGjN"
+            }
+        },
+        "163": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241047",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/7VMtKbD"
+            }
+        },
+        "164": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241058",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/fjsnle3"
+            }
+        },
+        "165": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241068",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/9ubNiq8"
+            }
+        },
+        "166": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241084",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/rFziQ8W"
+            }
+        },
+        "167": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241096",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/pWVYaQb"
+            }
+        },
+        "168": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241106",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/Vv6wvw3"
+            }
+        },
+        "169": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241118",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/iyV0pXO"
+            }
+        },
+        "170": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635241128",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/ItQt4Fv"
+            }
+        },
+        "111": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635248572",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/LEbRvAe"
+            }
+        },
+        "112": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635248838",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/0WmMPll"
+            }
+        },
+        "110": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635254875",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/liIgnrT"
+            }
+        },
+        "113": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635260439",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/EQtQuWB"
+            }
+        }
     }
- }
+}
