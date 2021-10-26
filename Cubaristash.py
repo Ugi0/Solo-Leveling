@@ -4,7 +4,6 @@ try:
     import json
     import glob
     import string
-    from discord.ext import commands
     import time
     import requests
     import re
