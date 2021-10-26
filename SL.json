@@ -3,7 +3,7 @@
     "description": "Solo Leveling is a story about the weakest hunter Sung Jin-Woo and his quest to become the strongest, S-Rank hunter. ",
     "artist": "Dubu",
     "author": "Chugong",
-    "cover": "https://wallpaperaccess.com/full/3231246.png",
+    "cover": "https://i.redd.it/09kxhv8187w61.jpg",
     "chapters": {
         "159": {
             "title": "",
@@ -155,6 +155,22 @@
             "last_updated": "1635270215",
             "groups": {
                 "AsuraScans": "/proxy/api/imgur/chapter/tlmnrvc"
+            }
+        },
+        "117": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635271949",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/Ejp7xdV"
+            }
+        },
+        "118": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635272693",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/6cRsGJG"
             }
         }
     }
