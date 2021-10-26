@@ -132,6 +132,30 @@
             "groups": {
                 "AsuraScans": "/proxy/api/imgur/chapter/EQtQuWB"
             }
+        },
+        "114": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635261680",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/d3zuqrH"
+            }
+        },
+        "115": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635265701",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/Wv4P6i3"
+            }
+        },
+        "116": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635270215",
+            "groups": {
+                "AsuraScans": "/proxy/api/imgur/chapter/tlmnrvc"
+            }
         }
     }
 }
