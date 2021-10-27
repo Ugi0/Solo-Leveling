@@ -259,9 +259,8 @@
             "last_updated": "1635284187",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/2Sh7zcB"
-            }
-        },
-        "0": {
+            },
+            "0": {
                 "title": "",
                 "volume": "",
                 "last_updated": "1635316959",
@@ -269,14 +268,15 @@
                     " ": "/proxy/api/imgur/chapter/0BkpvUS"
                 }
             },
-        "1": {
+            "1": {
                 "title": "",
                 "volume": "",
                 "last_updated": "1635319879",
                 "groups": {
                     " ": "/proxy/api/imgur/chapter/l5bW7XZ"
                 }
-            },
+            }
+        },
         "130": {
             "title": "",
             "volume": "",
@@ -331,6 +331,54 @@
             "last_updated": "1635327857",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/BwboW3h"
+            }
+        },
+        "137": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635328180",
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/NkyVwm8"
+            }
+        },
+        "138": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635331561",
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/uG3nrEq"
+            }
+        },
+        "139": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635332771",
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/QEPvON5"
+            }
+        },
+        "140": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635335445",
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/DfPfJx5"
+            }
+        },
+        "141": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635336821",
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/BQmP82v"
+            }
+        },
+        "142": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635338818",
+            "groups": {
+                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/uYVQWIY"
             }
         }
     }
