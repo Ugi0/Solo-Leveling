@@ -1,439 +1,341 @@
 {
-    "title": "Solo Leveling",
-    "description": "Solo Leveling is a story about the weakest hunter Sung Jin-Woo and his quest to become the strongest, S-Rank hunter. ",
     "artist": "Dubu",
     "author": "Chugong",
-    "cover": "https://i.redd.it/09kxhv8187w61.jpg",
     "chapters": {
-        "159": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635240959",
+        "0": {
             "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/FIZE92W"
-            }
+                " ": "/proxy/api/imgur/chapter/0BkpvUS"
+            },
+            "last_updated": "1635316959",
+            "title": "",
+            "volume": ""
         },
-        "160": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241007",
+        "1": {
             "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/gnyrfo0"
-            }
-        },
-        "161": {
+                " ": "/proxy/api/imgur/chapter/l5bW7XZ"
+            },
+            "last_updated": "1635319879",
             "title": "",
-            "volume": "",
-            "last_updated": "1635241021",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/dSbRwNR"
-            }
-        },
-        "162": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241032",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/caylGjN"
-            }
-        },
-        "163": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241047",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/7VMtKbD"
-            }
-        },
-        "164": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241058",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/fjsnle3"
-            }
-        },
-        "165": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241068",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/9ubNiq8"
-            }
-        },
-        "166": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241084",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/rFziQ8W"
-            }
-        },
-        "167": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241096",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/pWVYaQb"
-            }
-        },
-        "168": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241106",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/Vv6wvw3"
-            }
-        },
-        "169": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241118",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/iyV0pXO"
-            }
-        },
-        "170": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635241128",
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/ItQt4Fv"
-            }
-        },
-        "111": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635248572",
-            "groups": {
-                "FlameScans": "/proxy/api/imgur/chapter/LEbRvAe"
-            }
-        },
-        "112": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635248838",
-            "groups": {
-                "FlameScans": "/proxy/api/imgur/chapter/0WmMPll"
-            }
+            "volume": ""
         },
         "110": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635254875",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/liIgnrT"
-            }
+            },
+            "last_updated": "1635254875",
+            "title": "",
+            "volume": ""
+        },
+        "111": {
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/LEbRvAe"
+            },
+            "last_updated": "1635248572",
+            "title": "",
+            "volume": ""
+        },
+        "112": {
+            "groups": {
+                "FlameScans": "/proxy/api/imgur/chapter/0WmMPll"
+            },
+            "last_updated": "1635248838",
+            "title": "",
+            "volume": ""
         },
         "113": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635260439",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/EQtQuWB"
-            }
+            },
+            "last_updated": "1635260439",
+            "title": "",
+            "volume": ""
         },
         "114": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635261680",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/d3zuqrH"
-            }
+            },
+            "last_updated": "1635261680",
+            "title": "",
+            "volume": ""
         },
         "115": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635265701",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/Wv4P6i3"
-            }
+            },
+            "last_updated": "1635265701",
+            "title": "",
+            "volume": ""
         },
         "116": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635270215",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/tlmnrvc"
-            }
+            },
+            "last_updated": "1635270215",
+            "title": "",
+            "volume": ""
         },
         "117": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635271949",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/Ejp7xdV"
-            }
+            },
+            "last_updated": "1635271949",
+            "title": "",
+            "volume": ""
         },
         "118": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635272693",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/6cRsGJG"
-            }
+            },
+            "last_updated": "1635272693",
+            "title": "",
+            "volume": ""
         },
         "119": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635275409",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/oqdrpAQ"
-            }
+            },
+            "last_updated": "1635275409",
+            "title": "",
+            "volume": ""
         },
         "120": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635277788",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/aZso8b7"
-            }
+            },
+            "last_updated": "1635277788",
+            "title": "",
+            "volume": ""
         },
         "121": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635278339",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/Z5lVFVb"
-            }
+            },
+            "last_updated": "1635278339",
+            "title": "",
+            "volume": ""
         },
         "122": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635279057",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/PZ8BrKK"
-            }
+            },
+            "last_updated": "1635279057",
+            "title": "",
+            "volume": ""
         },
         "123": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635279775",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/UHiFlf6"
-            }
+            },
+            "last_updated": "1635279775",
+            "title": "",
+            "volume": ""
         },
         "124": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635280535",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/RyUESFc"
-            }
+            },
+            "last_updated": "1635280535",
+            "title": "",
+            "volume": ""
         },
         "125": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635281252",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/oPUItMd"
-            }
+            },
+            "last_updated": "1635281252",
+            "title": "",
+            "volume": ""
         },
         "126": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635281985",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/PvEDLFQ"
-            }
+            },
+            "last_updated": "1635281985",
+            "title": "",
+            "volume": ""
         },
         "127": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635282725",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/bPDzeSM"
-            }
+            },
+            "last_updated": "1635282725",
+            "title": "",
+            "volume": ""
         },
         "128": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635283459",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/GNTEchM"
-            }
+            },
+            "last_updated": "1635283459",
+            "title": "",
+            "volume": ""
         },
         "129": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635284187",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/2Sh7zcB"
             },
-            "0": {
-                "title": "",
-                "volume": "",
-                "last_updated": "1635316959",
-                "groups": {
-                    " ": "/proxy/api/imgur/chapter/0BkpvUS"
-                }
-            },
-            "1": {
-                "title": "",
-                "volume": "",
-                "last_updated": "1635319879",
-                "groups": {
-                    " ": "/proxy/api/imgur/chapter/l5bW7XZ"
-                }
-            }
+            "last_updated": "1635284187",
+            "title": "",
+            "volume": ""
         },
         "130": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635320290",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/WbzPNZO"
-            }
+            },
+            "last_updated": "1635320290",
+            "title": "",
+            "volume": ""
         },
         "131": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635322673",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/zbRnQTD"
-            }
+            },
+            "last_updated": "1635322673",
+            "title": "",
+            "volume": ""
         },
         "132": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635323998",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/4tm824C"
-            }
+            },
+            "last_updated": "1635323998",
+            "title": "",
+            "volume": ""
         },
         "133": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635324388",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/LhHcwbE"
-            }
+            },
+            "last_updated": "1635324388",
+            "title": "",
+            "volume": ""
         },
         "134": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635326198",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/JvEg5Jq"
-            }
+            },
+            "last_updated": "1635326198",
+            "title": "",
+            "volume": ""
         },
         "135": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635326575",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/TBotvf5"
-            }
+            },
+            "last_updated": "1635326575",
+            "title": "",
+            "volume": ""
         },
         "136": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635327857",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/BwboW3h"
-            }
+            },
+            "last_updated": "1635327857",
+            "title": "",
+            "volume": ""
         },
         "137": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635328180",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/NkyVwm8"
-            }
+            },
+            "last_updated": "1635328180",
+            "title": "",
+            "volume": ""
         },
         "138": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635331561",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/uG3nrEq"
-            }
+            },
+            "last_updated": "1635331561",
+            "title": "",
+            "volume": ""
         },
         "139": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635332771",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/QEPvON5"
-            }
+            },
+            "last_updated": "1635332771",
+            "title": "",
+            "volume": ""
         },
         "140": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635335445",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/DfPfJx5"
-            }
+            },
+            "last_updated": "1635335445",
+            "title": "",
+            "volume": ""
         },
         "141": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635336821",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/BQmP82v"
-            }
+            },
+            "last_updated": "1635336821",
+            "title": "",
+            "volume": ""
         },
         "142": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635338818",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/uYVQWIY"
-            }
+            },
+            "last_updated": "1635338818",
+            "title": "",
+            "volume": ""
         },
         "143": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635340123",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/NxrFr8u"
-            }
+            },
+            "last_updated": "1635340123",
+            "title": "",
+            "volume": ""
         },
         "144": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635341515",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/Y2JX471"
-            }
+            },
+            "last_updated": "1635341515",
+            "title": "",
+            "volume": ""
         },
         "145": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635342841",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/iYBC5hB"
-            }
+            },
+            "last_updated": "1635342841",
+            "title": "",
+            "volume": ""
         },
         "146": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635344139",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/uxbFJz5"
-            }
+            },
+            "last_updated": "1635344139",
+            "title": "",
+            "volume": ""
         },
         "147": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635345437",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/CMhPZTJ"
-            }
+            },
+            "last_updated": "1635345437",
+            "title": "",
+            "volume": ""
         },
         "148": {
-            "title": "",
-            "volume": "",
-            "last_updated": "1635346733",
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/f2mIQ3I"
-            }
+            },
+            "last_updated": "1635346733",
+            "title": "",
+            "volume": ""
         },
         "149": {
-            "title": "",
-            "volume": "",
+            "groups": {
+                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/IslEL8w"
+            },
             "last_updated": "1635348247",
-=======
+            "title": "",
             "volume": ""
         },
         "150": {
@@ -541,10 +443,15 @@
             "volume": ""
         },
         "2": {
->>>>>>> Stashed changes
             "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/IslEL8w"
-            }
+                " ": "/proxy/api/imgur/chapter/sBwT9UD"
+            },
+            "last_updated": "1635350711",
+            "title": "",
+            "volume": ""
         }
-    }
+    },
+    "cover": "https://i.redd.it/09kxhv8187w61.jpg",
+    "description": "Solo Leveling is a story about the weakest hunter Sung Jin-Woo and his quest to become the strongest, S-Rank hunter. ",
+    "title": "Solo Leveling"
 }
