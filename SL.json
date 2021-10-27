@@ -101,6 +101,14 @@
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/ItQt4Fv"
             }
         },
+        "171": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635342565",
+            "groups": {
+                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/ZIohNxL"
+            }
+        },
         "111": {
             "title": "",
             "volume": "",
@@ -259,22 +267,22 @@
             "last_updated": "1635284187",
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/2Sh7zcB"
-            },
-            "0": {
-                "title": "",
-                "volume": "",
-                "last_updated": "1635316959",
-                "groups": {
+            }
+        },
+        "0": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635316959",
+            "groups": {
                     " ": "/proxy/api/imgur/chapter/0BkpvUS"
                 }
             },
-            "1": {
-                "title": "",
-                "volume": "",
-                "last_updated": "1635319879",
-                "groups": {
+        "1": {
+            "title": "",
+            "volume": "",
+            "last_updated": "1635319879",
+            "groups": {
                     " ": "/proxy/api/imgur/chapter/l5bW7XZ"
-                }
             }
         },
         "130": {
