@@ -18,6 +18,22 @@
             "title": "",
             "volume": ""
         },
+        "10": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/59THTte"
+            },
+            "last_updated": "1635639516",
+            "title": "",
+            "volume": ""
+        },
+        "11": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/865uJa2"
+            },
+            "last_updated": "1635640452",
+            "title": "",
+            "volume": ""
+        },
         "110": {
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/liIgnrT"
@@ -95,6 +111,14 @@
                 "FlameScans": "/proxy/api/imgur/chapter/oqdrpAQ"
             },
             "last_updated": "1635275409",
+            "title": "",
+            "volume": ""
+        },
+        "12": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/20jquAG"
+            },
+            "last_updated": "1635644912",
             "title": "",
             "volume": ""
         },
@@ -178,6 +202,14 @@
             "title": "",
             "volume": ""
         },
+        "13": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/8j3esmT"
+            },
+            "last_updated": "1635645870",
+            "title": "",
+            "volume": ""
+        },
         "130": {
             "groups": {
                 "FlameScans": "/proxy/api/imgur/chapter/WbzPNZO"
@@ -255,6 +287,14 @@
                 "FlameScans": "/proxy/api/imgur/chapter/QEPvON5"
             },
             "last_updated": "1635332771",
+            "title": "",
+            "volume": ""
+        },
+        "14": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/cGa18wc"
+            },
+            "last_updated": "1635650340",
             "title": "",
             "volume": ""
         },
@@ -338,6 +378,14 @@
             "title": "",
             "volume": ""
         },
+        "15": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/7M17d9f"
+            },
+            "last_updated": "1635654886",
+            "title": "",
+            "volume": ""
+        },
         "150": {
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/v7uKtlu"
@@ -415,6 +463,14 @@
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/FIZE92W"
             },
             "last_updated": "1635240959",
+            "title": "",
+            "volume": ""
+        },
+        "16": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/15wiggX"
+            },
+            "last_updated": "1635659498",
             "title": "",
             "volume": ""
         },
@@ -498,6 +554,14 @@
             "title": "",
             "volume": ""
         },
+        "17": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/v5p1G8J"
+            },
+            "last_updated": "1635660465",
+            "title": "",
+            "volume": ""
+        },
         "170": {
             "groups": {
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/ItQt4Fv"
@@ -543,6 +607,38 @@
                 " ": "/proxy/api/imgur/chapter/PGLzRFd"
             },
             "last_updated": "1635597500",
+            "title": "",
+            "volume": ""
+        },
+        "6": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/E9CjC2O"
+            },
+            "last_updated": "1635625063",
+            "title": "",
+            "volume": ""
+        },
+        "7": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/R8KQLKL"
+            },
+            "last_updated": "1635629605",
+            "title": "",
+            "volume": ""
+        },
+        "8": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/uRIkfAq"
+            },
+            "last_updated": "1635630536",
+            "title": "",
+            "volume": ""
+        },
+        "9": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/pCbBVGB"
+            },
+            "last_updated": "1635635026",
             "title": "",
             "volume": ""
         }
