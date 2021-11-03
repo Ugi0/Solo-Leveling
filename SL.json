@@ -90,6 +90,22 @@
             "title": "",
             "volume": ""
         },
+        "108": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/fdyP3TC"
+            },
+            "last_updated": "1635950939",
+            "title": "",
+            "volume": ""
+        },
+        "109": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/sXyAeXy"
+            },
+            "last_updated": "1635951763",
+            "title": "",
+            "volume": ""
+        },
         "11": {
             "groups": {
                 " ": "/proxy/api/imgur/chapter/865uJa2"
@@ -639,14 +655,6 @@
                 "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/ZIohNxL"
             },
             "last_updated": "1635241128",
-            "title": "",
-            "volume": ""
-        },
-        "172": {
-            "groups": {
-                "FlameScans/AsuraScans": "/proxy/api/imgur/chapter/XzDLmF8"
-            },
-            "last_updated": "1635949173",
             "title": "",
             "volume": ""
         },
