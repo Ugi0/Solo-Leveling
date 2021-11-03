@@ -26,6 +26,14 @@
             "title": "",
             "volume": ""
         },
+        "100": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/sjjP3ts"
+            },
+            "last_updated": "1635921912",
+            "title": "",
+            "volume": ""
+        },
         "11": {
             "groups": {
                 " ": "/proxy/api/imgur/chapter/865uJa2"
@@ -1186,11 +1194,115 @@
             "title": "",
             "volume": ""
         },
+        "87": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/go1Fweu"
+            },
+            "last_updated": "1635877396",
+            "title": "",
+            "volume": ""
+        },
+        "88": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/G0RKa11"
+            },
+            "last_updated": "1635881869",
+            "title": "",
+            "volume": ""
+        },
+        "89": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/uqm2rkw"
+            },
+            "last_updated": "1635882721",
+            "title": "",
+            "volume": ""
+        },
         "9": {
             "groups": {
                 " ": "/proxy/api/imgur/chapter/pCbBVGB"
             },
             "last_updated": "1635635026",
+            "title": "",
+            "volume": ""
+        },
+        "90": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/EGnGKPk"
+            },
+            "last_updated": "1635887229",
+            "title": "",
+            "volume": ""
+        },
+        "91": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/JrvN1LW"
+            },
+            "last_updated": "1635891719",
+            "title": "",
+            "volume": ""
+        },
+        "92": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/iYa0qEO"
+            },
+            "last_updated": "1635892705",
+            "title": "",
+            "volume": ""
+        },
+        "93": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/iGdQX8t"
+            },
+            "last_updated": "1635897281",
+            "title": "",
+            "volume": ""
+        },
+        "94": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/d6Xl5Fw"
+            },
+            "last_updated": "1635901899",
+            "title": "",
+            "volume": ""
+        },
+        "95": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/p4L6DcY"
+            },
+            "last_updated": "1635906502",
+            "title": "",
+            "volume": ""
+        },
+        "96": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/PzyF9Gk"
+            },
+            "last_updated": "1635910993",
+            "title": "",
+            "volume": ""
+        },
+        "97": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/ZAOiWUB"
+            },
+            "last_updated": "1635911885",
+            "title": "",
+            "volume": ""
+        },
+        "98": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/XuLEcYO"
+            },
+            "last_updated": "1635916421",
+            "title": "",
+            "volume": ""
+        },
+        "99": {
+            "groups": {
+                " ": "/proxy/api/imgur/chapter/Nc7rEYd"
+            },
+            "last_updated": "1635920914",
             "title": "",
             "volume": ""
         }
